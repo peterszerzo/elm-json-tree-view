@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "Microsoft/elm-json-tree-view",
+    "name": "peterszerzo/elm-json-tree-view",
     "summary": "Shows JSON data as an expandable HTML tree",
     "license": "MIT",
     "version": "1.0.0",
