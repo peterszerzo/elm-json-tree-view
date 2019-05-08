@@ -1,3 +1,8 @@
+!!
+This is a fork of [microsoft/elm-json-tree-view](https://package.elm-lang.org/packages/Microsoft/elm-json-tree-view/latest/), created because the change of the org name from `Microsoft` to `microsoft` was breaking Elm project builds.
+* https://github.com/microsoft/elm-json-tree-view/issues/7
+!!
+
 # Elm JSON Tree View
 
 This library provides a JSON tree view. You feed it JSON, and it transforms it into interactive HTML.
